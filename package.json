@@ -1,0 +1,19 @@
+{
+  "name": "45-q",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.5.29",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  },
+  "description": ""
+}
